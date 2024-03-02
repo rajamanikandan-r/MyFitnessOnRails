@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  activity_type: 1
+  duration: 1
+  distance: 1.5
+  calories: 1
+  activity_date: 2024-03-02
+  averageHR: 1
+  averagePower: 1
+
+two:
+  name: MyString
+  activity_type: 1
+  duration: 1
+  distance: 1.5
+  calories: 1
+  activity_date: 2024-03-02
+  averageHR: 1
+  averagePower: 1
